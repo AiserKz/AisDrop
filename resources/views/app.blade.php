@@ -14,7 +14,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link href="https://fonts.cdnfonts.com/css/space-grotesk" rel="stylesheet">
                 
-
+        <link rel="shortcut icon" href="{{ asset('images/favicon.png') }}" type="image/x-icon">
         <!-- Scripts -->
         @routes
         @viteReactRefresh
